@@ -13,13 +13,13 @@ vALU
 !i10b 1
 !s100 LnWX115mJ7S<GkVZ:bP@g0
 I3VPP5o8dakhAJk<MeZXMP1
-VDg1SIo80bB@j0V0VzS_@n1
-dC:/Users/mateu/Desktop/Faculdade/Arquitetura de Computadores 3/PROCESSADOR
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dC:/Users/mateu/Desktop/Faculdade/Arquitetura de Computadores 3/PROCESSADOR
 w1701716581
 8C:/Users/mateu/Desktop/Faculdade/Arquitetura de Computadores 3/PROCESSADOR/alu.v
 FC:/Users/mateu/Desktop/Faculdade/Arquitetura de Computadores 3/PROCESSADOR/alu.v
 L0 2
-OV;L;10.5b;63
+Z2 OV;L;10.5b;63
 r1
 !s85 0
 31
@@ -27,6 +27,27 @@ r1
 !s107 C:/Users/mateu/Desktop/Faculdade/Arquitetura de Computadores 3/PROCESSADOR/alu.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/mateu/Desktop/Faculdade/Arquitetura de Computadores 3/PROCESSADOR/alu.v|
 !i113 1
-o-work work
-tCvgOpt 0
+Z3 o-work work
+Z4 tCvgOpt 0
 n@a@l@u
+vdecoder
+!s110 1702663754
+!i10b 1
+!s100 Z`Z3YLA?4e_H5_i8?KjjL0
+I3SYZWbd[LmfPW8Hhg^``20
+R0
+R1
+w1702663744
+8C:/Users/mateu/Desktop/Faculdade/Arquitetura de Computadores 3/PROCESSADOR/decoder.v
+FC:/Users/mateu/Desktop/Faculdade/Arquitetura de Computadores 3/PROCESSADOR/decoder.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1702663754.000000
+!s107 C:/Users/mateu/Desktop/Faculdade/Arquitetura de Computadores 3/PROCESSADOR/decoder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/mateu/Desktop/Faculdade/Arquitetura de Computadores 3/PROCESSADOR/decoder.v|
+!i113 1
+R3
+R4
