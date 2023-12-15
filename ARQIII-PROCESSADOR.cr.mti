@@ -1,0 +1,11 @@
+{C:/Users/mateu/Desktop/Faculdade/Arquitetura de Computadores 3/PROCESSADOR/Mux_pc.v} {1 {vlog -work work -stats=none {C:/Users/mateu/Desktop/Faculdade/Arquitetura de Computadores 3/PROCESSADOR/Mux_pc.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+
+} {} {}} {C:/Users/mateu/Desktop/Faculdade/Arquitetura de Computadores 3/PROCESSADOR/alu.v} {1 {vlog -work work -stats=none {C:/Users/mateu/Desktop/Faculdade/Arquitetura de Computadores 3/PROCESSADOR/alu.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}}

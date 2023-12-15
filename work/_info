@@ -1,0 +1,32 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/IntelFPGA
+vALU
+!s110 1701810566
+!i10b 1
+!s100 LnWX115mJ7S<GkVZ:bP@g0
+I3VPP5o8dakhAJk<MeZXMP1
+VDg1SIo80bB@j0V0VzS_@n1
+dC:/Users/mateu/Desktop/Faculdade/Arquitetura de Computadores 3/PROCESSADOR
+w1701716581
+8C:/Users/mateu/Desktop/Faculdade/Arquitetura de Computadores 3/PROCESSADOR/alu.v
+FC:/Users/mateu/Desktop/Faculdade/Arquitetura de Computadores 3/PROCESSADOR/alu.v
+L0 2
+OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1701810566.000000
+!s107 C:/Users/mateu/Desktop/Faculdade/Arquitetura de Computadores 3/PROCESSADOR/alu.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/mateu/Desktop/Faculdade/Arquitetura de Computadores 3/PROCESSADOR/alu.v|
+!i113 1
+o-work work
+tCvgOpt 0
+n@a@l@u
